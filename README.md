@@ -4,3 +4,5 @@ It enables real-time detection and segmentation of any object class using text p
 
 By leveraging YOLO26's NMS-free, end-to-end design, YOLOE-26 delivers fast open-world inference. 
 This makes it a powerful solution for edge applications in dynamic environments where the objects of interest represent a broad and evolving vocabulary.
+
+Ref - https://docs.ultralytics.com/models/yolo26/
